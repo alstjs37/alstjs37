@@ -1,4 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=#0100FF&height=150&section=header" /></div>
+
 <div align="center">
 <h3 align="center">Introduction🙋‍♀️</h3>
 <p align="center">🐣안녕하세요 " ? " 이민선 입니다🌱</p>
@@ -25,7 +26,7 @@
 <p align="center">정보처리기사</p>
 <br><br>
 
-
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=#0100FF)
 <!--
 **sdc05103/sdc05103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
