@@ -1,11 +1,12 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=#0100FF&height=150&section=header" /></div>
 
 <div align="center">
-<h3 align="center">Introduction🙋‍♀️</h3>
-<p align="center">🐣안녕하세요 " ? " 이민선 입니다🌱</p>
+<h3 align="center">🧑🏻‍💻 Introduction</h3>
+<p align="center">🐣 안녕하세요 " ? " 이민선 입니다 🌱</p>
 </div>
+
 <br><br>
-<h3 align="center">🍎Tech Stack🍎</h3>
+<h3 align="center">📚 Study</h3>
 <p align="center">
 <img src = "https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src = "https://img.shields.io/badge/C-FFFF00?style=flat-square&logo=C&logoColor=black"/>
@@ -15,14 +16,13 @@
 <img src = "https://img.shields.io/badge/Spring-1DDB16?style=flat-square&logo=Spring&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Mysql-00AAFF?style=flat-square&logo=Mysql&logoColor=white"/>
 </p>
-<br><br>
-<h3 align="center">👩‍💻Profile</h3>
 
+<br><br>
+<h3 align="center">🧑🏻‍💻 Profile</h3>
 <p align="center">신한투자증권 프로디지털아카데미 기 (2024.0 ~ ) </p>
 <br><br>
-<h3 align="center"> 🏆Certification</h3>
 
-
+<h3 align="center"> 🏆 Certification</h3>
 <p align="center">정보처리기사</p>
 <br><br>
 
