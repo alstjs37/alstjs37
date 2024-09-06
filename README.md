@@ -18,7 +18,7 @@
 <br><br>
 <h3 align="center">👩‍💻Profile</h3>
 
-<p align="center">신한투자증권 프로디지털아카데미 4기 (2024.03 ~ ) </p>
+<p align="center">신한투자증권 프로디지털아카데미 기 (2024.0 ~ ) </p>
 <br><br>
 <h3 align="center"> 🏆Certification</h3>
 
@@ -27,8 +27,8 @@
 <br><br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=#0100FF)
+
 <!--
-**sdc05103/sdc05103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
