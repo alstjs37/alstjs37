@@ -3,6 +3,7 @@
 <div align="center">
 <h3 align="center">🧑🏻‍💻 Introduction</h3>
 <p align="center">🐣 안녕하세요 " ? " 이민선 입니다 🌱</p>
+<p align="center"> 백엔드 개발자 & 클라우드 엔지니어를 희망합니다</p>
 </div>
 
 <br><br>
@@ -11,22 +12,32 @@
 
 <br><br>
 <h3 align="center">🧑🏻‍💻 Profile</h3>
+<p align="center">데이터 지식 공학 연구실 학부연구생 (2022.09 ~ 2024.04) </p>
+<p align="center">IBK 기업은행 청년 인턴 (2024.07 ~ 2024.08) </p>
 <p align="center">신한투자증권 프로디지털아카데미 5기 (2024.09 ~ ) </p>
 
 <br><br>
 <h3 align="center"> 🏆 Certification</h3>
+<p align="center">2023 한국정보과학회 한국컴퓨터종합학술대회 학부생부문 장려상</p>
 <p align="center">정보처리기사</p>
 
 <br><br>
 <h3 align="center">📚 Study</h3>
-<p align="center">
-<img src = "https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src = "https://img.shields.io/badge/C-FFFF00?style=flat-square&logo=C&logoColor=black"/>
-<img src = "https://img.shields.io/badge/C++-00FF00?style=flat-square&logo=C%2B%2B&logoColor=black"/>
-<img src = "https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white"/>
-<img src= "https://img.shields.io/badge/Django-FFFFFF?style=flat-square&logo=Django&logoColor=black"/>
-<img src = "https://img.shields.io/badge/Spring-1DDB16?style=flat-square&logo=Spring&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Mysql-00AAFF?style=flat-square&logo=Mysql&logoColor=white"/>
+<p align="center">  
+
+<img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+
+<br>
+<img src = "https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src = "https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
+<img src = "https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+
+<br>
+<img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src = "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
 </p>
 
 <br><br>
