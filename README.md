@@ -19,7 +19,7 @@
 
 <br><br>
 <h3 align="center">🧑🏻‍💻 Profile</h3>
-<p align="center">신한투자증권 프로디지털아카데미 기 (2024.0 ~ ) </p>
+<p align="center">신한투자증권 프로디지털아카데미 5기 (2024.09 ~ ) </p>
 <br><br>
 
 <h3 align="center"> 🏆 Certification</h3>
