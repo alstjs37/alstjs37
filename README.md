@@ -6,9 +6,6 @@
 <p align="center"><b>BE developer & Cloud Engineer</b></p>
 </div>
 
-
-
-
 <br><br>
 <h3 align="center"> 🔥 Final Vocabulary</h3>
 <p align="center"> 안정성 & 효율성 </p>
