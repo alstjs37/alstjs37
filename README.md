@@ -2,9 +2,12 @@
 
 <div align="center">
 <h3 align="center">🧑🏻‍💻 Introduction</h3>
-<p align="center">🐣 안녕하세요 " " 이민선 입니다 🌱</p>
-<p align="center"> 백엔드 개발자 & 클라우드 엔지니어를 희망합니다</p>
+<p align="center">🐣 안녕하세요 "경청하는 사람" 이민선 입니다 🌱</p>
+<p align="center"><b>BE developer & Cloud Engineer</b></p>
 </div>
+
+
+
 
 <br><br>
 <h3 align="center"> 🔥 Final Vocabulary</h3>
