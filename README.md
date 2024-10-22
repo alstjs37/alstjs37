@@ -1,23 +1,14 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=#0100FF&height=150&section=header" /></div>
 
-<a href="https://github.com/devxb/gitanimals">
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/alstjs37?pet-id=636461010741194196"
-    width="25%" height="100"
+    src="https://render.gitanimals.org/farms/alstjs37"
+    width="600"
+    height="300"
   />
-  <img
-    src="https://render.gitanimals.org/lines/alstjs37?pet-id=636461766869350134"
-    width="25%" height="100"
-  />
-  <img
-    src="https://render.gitanimals.org/lines/alstjs37?pet-id=636460285277599394"
-    width="25%" height="100"
-  />
-  <img
-    src="https://render.gitanimals.org/lines/alstjs37?pet-id=636461576326315779"
-    width="25%" height="100"
-  />
-</a>
+  </a>
+</div>  
 
 <div align="center">
 <h3 align="center">🧑🏻‍💻 Introduction</h3>
