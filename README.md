@@ -3,8 +3,19 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/alstjs37?pet-id=636461010741194196"
-    width="600"
-    height="120"
+    width="25%" height="100"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/alstjs37?pet-id=636461766869350134"
+    width="25%" height="100"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/alstjs37?pet-id=636460285277599394"
+    width="25%" height="100"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/alstjs37?pet-id=636461576326315779"
+    width="25%" height="100"
   />
 </a>
 
