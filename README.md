@@ -1,5 +1,13 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=#0100FF&height=150&section=header" /></div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/alstjs37?pet-id=636461010741194196"
+    width="600"
+    height="120"
+  />
+</a>
+
 <div align="center">
 <h3 align="center">🧑🏻‍💻 Introduction</h3>
 <p align="center">🐣 안녕하세요 "경청하는 사람" 이민선 입니다 🌱</p>
