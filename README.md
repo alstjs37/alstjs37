@@ -10,7 +10,7 @@
   </a>
 </div>  
 
-<div align="center">
+<!-- <div align="center">
 <h3 align="center">🧑🏻‍💻 Introduction</h3>
 <p align="center">🐣 안녕하세요 "경청하는 사람" 이민선 입니다 🌱</p>
 <p align="center"><b>BE developer & Cloud Engineer</b></p>
@@ -29,7 +29,7 @@
 <br><br>
 <h3 align="center"> 🏆 MORE</h3>
 <p align="center">2023 한국정보과학회 한국컴퓨터종합학술대회 학부생부문 장려상</p>
-<p align="center">정보처리기사</p>
+<p align="center">정보처리기사</p> -->
 
 <br><br>
 <h3 align="center">📚 Study</h3>
